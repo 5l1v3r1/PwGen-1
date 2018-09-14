@@ -4,7 +4,7 @@
 
 ## Getting Started
 1. ```git clone https://github.com/xHak9x/PwGen.git```
-2. ```cd pwgen```
+2. ```cd PwGen```
 3. ```python pwgen.py ```
 
 ## A linux operating system. We recommend :
